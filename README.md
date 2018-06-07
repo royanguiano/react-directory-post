@@ -16,10 +16,13 @@ Libraries used:
 
 ### Getting Started
 
- git clone https://github.com/royanguiano/react-directory-post.git
- cd ReduxSimpleStarter
- npm install
- npm start
+ > git clone https://github.com/royanguiano/react-directory-post.git
+ 
+ > cd ReduxSimpleStarter
+ 
+ > npm install
+ 
+ > npm start
 ```
 ```
 > npm install
