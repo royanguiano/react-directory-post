@@ -24,8 +24,12 @@ Libraries used:
  
  > npm start
 ```
-```
+#To Run application
+
 > npm install
+
 > npm start
+
+navigate to http://localhost:8080/
 ```
 # react-directory-post
